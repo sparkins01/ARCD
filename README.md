@@ -20,7 +20,7 @@ A full description of the parameters is available in Paper 2 in the 'Research Pa
 In the Debug\netcoreapp3.1 folder, there is the ‘EvtGenScript.BAT’ which will generate all the datafiles used for benchmarking purposes in Paper 2.
 
 
-**[2. Clustering Python](https://github.com/sparkins01/ARCD/tree/main/2.%20Clustering%20Python**
+**[2. Clustering Python](https://github.com/sparkins01/ARCD/tree/main/2.%20Clustering%20Python)**
 This Python code was used during the experimental part of this project. 
 
 The first file 'All Algorithms.py' was used to benchmark 5 algorithms (Optics_RI, DBSCAN_RI, Mean Shift_RI, Affinity_RI, Agglomerative_RI) against a small subset of data generated using the '1.Data Generator' code.
@@ -28,7 +28,7 @@ The first file 'All Algorithms.py' was used to benchmark 5 algorithms (Optics_RI
 The second file 'DBScan.py' uses only the DBScan algorithm on the full set of benchmarking data (generated using 'EvtGenScript.BAT' in '1.Data Generator') to establish how well it can detect event-chains. The Adjusted Rand Index (ARI) is used to calculate the match and the full results are available in Paper 2.
 
 
-**[3. Prototype](https://github.com/sparkins01/ARCD/tree/main/3.%20Prototype**
+**[3. Prototype](https://github.com/sparkins01/ARCD/tree/main/3.%20Prototype)**
 This C# project has been created to demonstrate how event generation, event-chain identification, conversion to an action model, to exploitation using model-based reasoning can be achieved. The purpose of the prototype is to demonstrate how this can work and to serve as a starting point for anyone wanting to build on the research of implement a specific use case.
 
 The application is driven by a primitive user interface consisting of four tabs. The four tabs providing the following features:
@@ -40,7 +40,7 @@ The application is driven by a primitive user interface consisting of four tabs.
 
 
 
-**[Research Papers](https://github.com/sparkins01/ARCD/tree/main/Research%20Paperse**
+**[Research Papers](https://github.com/sparkins01/ARCD/tree/main/Research%20Paperse)**
 The two research articles were produced during this project. Please cite accordingly:
 
 
