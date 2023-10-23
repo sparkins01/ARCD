@@ -12,4 +12,4 @@ Once compiled, the application takes the following 7 command line inputs:
 
 A full description of the parameters is available in Paper 2 in the 'Research Papers' folder.
 
-In the Debug\netcoreapp3.1 folder, there is the EvtGenScript.BAT which will generate all the datafiles used for benchmarking purposes in Pape 2.
+In the Debug\netcoreapp3.1 folder, there is the EvtGenScript.BAT which will generate all the datafiles used for benchmarking purposes in Paper 2.
