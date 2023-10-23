@@ -1,0 +1,52 @@
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfoInputs.cache
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfo.cs
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CoreCompileInputs.cache
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\bin\Debug\net45\HdbscanSharp.dll
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\bin\Debug\net45\HdbscanSharp.pdb
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\bin\Debug\net45\System.ValueTuple.dll
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CopyComplete
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.dll
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.pdb
+C:\Users\scomsp2\Downloads\HdbscanSharp-master\HdbscanSharp-master\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csprojAssemblyReference.cache
+D:\Software Projects\EventToAction\HdbscanSharp\bin\Debug\net45\HdbscanSharp.dll
+D:\Software Projects\EventToAction\HdbscanSharp\bin\Debug\net45\HdbscanSharp.pdb
+D:\Software Projects\EventToAction\HdbscanSharp\bin\Debug\net45\System.ValueTuple.dll
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.AssemblyReference.cache
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfoInputs.cache
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfo.cs
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CoreCompileInputs.cache
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CopyComplete
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.dll
+D:\Software Projects\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.pdb
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\bin\Debug\net45\HdbscanSharp.dll
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\bin\Debug\net45\HdbscanSharp.pdb
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\bin\Debug\net45\System.ValueTuple.dll
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csprojAssemblyReference.cache
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfoInputs.cache
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfo.cs
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CoreCompileInputs.cache
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CopyComplete
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.dll
+C:\Users\scomsp2\Downloads\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.pdb
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\bin\Debug\net45\HdbscanSharp.dll
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\bin\Debug\net45\HdbscanSharp.pdb
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\bin\Debug\net45\System.ValueTuple.dll
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csprojAssemblyReference.cache
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfoInputs.cache
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfo.cs
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CoreCompileInputs.cache
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CopyComplete
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.dll
+C:\Users\scomsp2\source\repos\EventToAction\HdbscanSharp\obj\Debug\net45\HdbscanSharp.pdb
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\bin\Debug\net45\HdbscanSharp.dll
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\bin\Debug\net45\HdbscanSharp.pdb
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\bin\Debug\net45\System.ValueTuple.dll
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.AssemblyReference.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfoInputs.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.AssemblyInfo.cs
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CoreCompileInputs.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.csproj.CopyComplete
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.dll
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\HdbscanSharp\obj\Debug\net45\HdbscanSharp.pdb

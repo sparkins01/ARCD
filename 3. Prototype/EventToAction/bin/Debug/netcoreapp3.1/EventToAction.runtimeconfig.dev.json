@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\spark\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\spark\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csprojAssemblyReference.cache
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.Form1.resources
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.GenerateResource.cache
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfoInputs.cache
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfo.cs
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CoreCompileInputs.cache
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.exe
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.deps.json
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.json
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.dev.json
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.dll
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.pdb
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.dll
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.pdb
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CopyComplete
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.dll
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.pdb
+C:\Users\scomsp2\Downloads\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.genruntimeconfig.cache
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.exe
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.deps.json
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.json
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.dev.json
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.dll
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.pdb
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.dll
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.pdb
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.Form1.resources
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.GenerateResource.cache
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfoInputs.cache
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfo.cs
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CoreCompileInputs.cache
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CopyComplete
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.dll
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.pdb
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.genruntimeconfig.cache
+C:\Users\scomsp2\source\repos\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csprojAssemblyReference.cache
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.exe
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.deps.json
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.json
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.dev.json
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.dll
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.pdb
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.dll
+D:\Software Projects\EventToAction\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.pdb
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.AssemblyReference.cache
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.Form1.resources
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.GenerateResource.cache
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfoInputs.cache
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfo.cs
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CoreCompileInputs.cache
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CopyComplete
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.dll
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.pdb
+D:\Software Projects\EventToAction\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.genruntimeconfig.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.exe
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.deps.json
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.json
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.runtimeconfig.dev.json
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.dll
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\EventToAction.pdb
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.dll
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\bin\Debug\netcoreapp3.1\HdbscanSharp.pdb
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.AssemblyReference.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.Form1.resources
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.GenerateResource.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfoInputs.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.AssemblyInfo.cs
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CoreCompileInputs.cache
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.csproj.CopyComplete
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.dll
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.pdb
+C:\Users\spark\Documents\GitHub\ARCD\3. Prototype\EventToAction\obj\Debug\netcoreapp3.1\EventToAction.genruntimeconfig.cache

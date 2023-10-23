@@ -1,0 +1,14 @@
+
+; Version LPG-td-1.0
+; Seed 17861252
+; Command line: /planner/lpg -o C:\Users\scomsp2\source\repos\EventToAction\Data\planner\edomain.pddl -f C:\Users\scomsp2\source\repos\EventToAction\Data\planner\eprob.pddl -n 1 -cputime 60 -out C:\Users\scomsp2\source\repos\EventToAction\Data\planner\ 
+; Problem C:\Users\scomsp2\source\repos\EventToAction\Data\planner\eprob.pddl
+; Actions having STRIPS duration
+; Time 0.31
+; Search time 0.31
+; Parsing time 0.00
+; Mutex time 0.00
+; NrActions 2
+
+0:   (ACTION_4164__2577 OBJECTVALUE29 OBJECTVALUE6 OBJECTVALUE30 OBJECTVALUE34 OBJECTVALUE32 OBJECTVALUE35 OBJECTVALUE34) [1]
+1:   (ACTION_4164__2577 OBJECTVALUE29 OBJECTVALUE6 OBJECTVALUE30 OBJECTVALUE35 OBJECTVALUE34 OBJECTVALUE32 OBJECTVALUE18) [1]

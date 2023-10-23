@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jmnckn5f4gCGO2uxgXf7YtsFSaVBbVaxam6OBpfGLgeJvQZm2V/IzK8p7LHGjm2TRmdUGosfbIBDA+L/LUbOjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spark\\Documents\\GitHub\\ARCD\\3. Prototype\\HdbscanSharp\\HdbscanSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\spark\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\spark\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\spark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\spark\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
