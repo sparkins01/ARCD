@@ -49,4 +49,4 @@ The two research articles were produced during this project. Please cite accordi
 
 
 
-For any queries, please contact [Simon Parkinson](s.parkinson@hud.ac.uk)
+For any queries, please contact s.parkinson@hud.ac.uk
