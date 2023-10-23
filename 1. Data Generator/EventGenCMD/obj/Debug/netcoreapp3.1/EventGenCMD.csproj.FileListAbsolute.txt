@@ -1,0 +1,13 @@
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\bin\Debug\netcoreapp3.1\EventGenCMD.exe
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\bin\Debug\netcoreapp3.1\EventGenCMD.deps.json
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\bin\Debug\netcoreapp3.1\EventGenCMD.runtimeconfig.json
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\bin\Debug\netcoreapp3.1\EventGenCMD.runtimeconfig.dev.json
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\bin\Debug\netcoreapp3.1\EventGenCMD.dll
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\bin\Debug\netcoreapp3.1\EventGenCMD.pdb
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.csproj.AssemblyReference.cache
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.AssemblyInfoInputs.cache
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.AssemblyInfo.cs
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.csproj.CoreCompileInputs.cache
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.dll
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.pdb
+C:\Users\scomsuk\source\repos\EventGenCMD\EventGenCMD\obj\Debug\netcoreapp3.1\EventGenCMD.genruntimeconfig.cache
