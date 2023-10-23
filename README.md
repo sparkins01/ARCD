@@ -2,7 +2,7 @@
 This repository provides the code and experimental works for a project undertaken by the University of Huddersfield funded through the Autonomous Resilient Cyber Defence (ARCD) programme. An overview and report can be found [here](https://github.com/sparkins01/ARCD/blob/main/Project%20Overview%20and%20Report.pdf)
 
 
-**[1. Data Generator](https://github.com/sparkins01/ARCD/tree/main/1.%20Data%20Generator)**
+**[1. Data Generator](https://github.com/sparkins01/ARCD/tree/main/1.%20Data%20Generator)** 
 This C# application provides a parameterised event dataset generation with the inclusion of synthetic event chains. An event chain is a group of events sharing common object occurrence.
 
 Once compiled, the application takes the following 7 command line inputs:
